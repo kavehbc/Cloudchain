@@ -2,7 +2,7 @@
 Cloudchain is an idea of designing a cloud federation based on the blockchain technology.  
 The current version is developed on the Ethereum network using the Solidity language (v. 0.4.24).
 It has three smartcontracts:
-1. *CCRegistry*: Cloudchain Registery is a global contract that maps cloud providers identification values *Name, Reputation Value, Computing Capacity* and *Storage Capacity* to their Ethereum address identity (equivalent to a public key).
+1. *CCRegistry*: Cloudchain Registery is a global contract that maps cloud providers identification values *Name, Reputation Value, Computing Capacity* and *Storage Capacity* to their Ethereum address identities (equivalent to the public keys).
 2. *CCProfile*: Cloudchain Profile holds a list of references to CCContract, representing all the participants' previous and current engagements with other nodes in the system.
 3. *CCContract*: Cloudchain Contract is issued between two nodes in the system when one node accepts and provides the requested service for the other.
 

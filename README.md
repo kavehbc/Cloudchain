@@ -23,8 +23,8 @@ In this paper, we introduce, design and develop *Cloudchain*, a blockchain-based
 ## Citation
 If you are using any part of *Cloudchain*, please cite our paper.  
 
-*The submitted manuscript will be announced soon.*
+*Citation details will be announced soon.*
 
 ## More information
-Published full-text: *will be available soon*  
-Powerpoint Presentation: *will be available soon*
+Published full-text: *it will be available soon*  
+Powerpoint Presentation: *it will be available soon*

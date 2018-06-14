@@ -7,14 +7,14 @@ It has three smartcontracts:
 3. *CCContract*: Cloudchain Contract is issued between two nodes in the system when one node accepts and provides the requested service for the other.
 
 ## Team
-###Lead Researcher:  
+#### Lead Researcher:  
 [Mona Taghavi](http://www.monataghavi.com) (Concordia University, Canada)  
 
-###Developer:
+#### Developer:  
 [Kaveh Bakhtiyari](http://www.bakhtiyari.com) (University of Duisburg-Essen, Germany and The National University of Malaysia)  
 
-###Research Supervisors:  
-[Jamal Bentahar](https://users.encs.concordia.ca/~bentahar/) (Concordia University, Canada)
+#### Research Supervisors:  
+[Jamal Bentahar](https://users.encs.concordia.ca/~bentahar/) (Concordia University, Canada)  
 [Hadi Otrok](https://users.encs.concordia.ca/~h_otrok/) (Khalifa University, UAE and Concordia University, Canada)
 
 ## Abstract

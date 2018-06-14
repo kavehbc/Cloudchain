@@ -6,7 +6,7 @@ It has three smartcontracts:
 2. *CCProfile*: Cloudchain Profile holds a list of references to CCContract, representing all the participants' previous and current engagements with other nodes in the system.
 3. *CCContract*: Cloudchain Contract is issued between two nodes in the system when one node accepts and provides the requested service for the other.
 
-## Team
+## Research Team
 #### Lead Researcher:  
 [Mona Taghavi](http://www.monataghavi.com) (Concordia University, Canada)  
 

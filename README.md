@@ -23,7 +23,7 @@ In this paper, we introduce, design and develop *Cloudchain*, a blockchain-based
 ## Citation
 If you are using any part of *Cloudchain*, please cite our paper.  
 
-*Citation details will be announced soon.*
+Mona Taghavi, Jamal Bentahar, Hadi Otrok, Kaveh Bakhtiyari, *"Cloudchain: a Blockchain-based Coopetition Differential Game Model for Cloud Computing"*, 16th International Conference on Service Oriented Computing (ICSOC), Hangzhou, Zhejian, China, 12-15 November 2018, In press.
 
 ## More information
 Published full-text: *it will be available soon*  

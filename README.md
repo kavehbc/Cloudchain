@@ -27,6 +27,6 @@ M. Taghavi, J. Bentahar, H. Otrok, and K. Bakhtiyari, *"Cloudchain: A Blockchain
 DOI: https://doi.org/10.1007/978-3-030-03596-9_10
 
 ## More information
-Published full-text: [Mona Taghavi](http://monataghavi.com) | [Kaveh Bakhtiyari](http://bakhtiyari.com) | [ResearchGate.net](https://www.researchgate.net/publication/328517305_Cloudchain_A_Blockchain-based_Coopetition_Differential_Game_Model_for_Cloud_Computing)
-Youtube Video: https://www.youtube.com/watch?v=fomO5C_ze2g
+Published full-text: [Mona Taghavi](http://monataghavi.com) | [Kaveh Bakhtiyari](http://bakhtiyari.com) | [ResearchGate.net](https://www.researchgate.net/publication/328517305_Cloudchain_A_Blockchain-based_Coopetition_Differential_Game_Model_for_Cloud_Computing)  
+Youtube Video: https://www.youtube.com/watch?v=fomO5C_ze2g  
 Powerpoint Presentation: [Mona Taghavi](http://monataghavi.com) | [Kaveh Bakhtiyari](http://bakhtiyari.com)

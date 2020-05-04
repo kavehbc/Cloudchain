@@ -32,7 +32,7 @@ Base Version
 ## Citation
 If you are using any part of *Cloudchain*, please cite our papers.  
 
-M. Taghavi, J. Bentahar, H. Otrok, and K. Bakhtiyari, ***"A Blockchain-based Model for Cloud Service Quality Monitoring,"*** in IEEE Transactions on Services Computing, 2019, (In press).
+M. Taghavi, J. Bentahar, H. Otrok, and K. Bakhtiyari, ***"A Blockchain-based Model for Cloud Service Quality Monitoring,"*** in IEEE Transactions on Services Computing, vol. 13, no. 2, pp. 276-288, 1 March-April 2020.
 DOI: https://doi.org/10.1109/TSC.2019.2948010  
 [[ResearchGate]](https://www.researchgate.net/publication/336623007_A_Blockchain-based_Model_for_Cloud_Service_Quality_Monitoring) |
 [[Full-Text]](http://wvvw.monataghavi.com/download/pub/2019-10-tsc-cloudchain.pdf)

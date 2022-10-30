@@ -6,15 +6,6 @@ It has three smartcontracts:
 2. *CCProfile*: Cloudchain Profile holds a list of references to CCContract, representing all the participants' previous and current engagements with other nodes in the system.
 3. *CCContract*: Cloudchain Contract is issued between two nodes in the system when one node accepts and provides the requested service for the other.
 
-## Version History
-#### 0.1.6: 3 November 2018  
-Solidity (0.4.25)  
-Introducing the role of a trusted verifier into Cloudchain  
-
-#### 0.1.5: 1 June 2018    
-Solidity (0.4.24)  
-Base Version  
-
 ## Research Team
 #### Lead Researcher:  
 [Mona Taghavi](http://www.monataghavi.com) (Concordia University, Canada)  
@@ -34,6 +25,7 @@ If you are using any part of *Cloudchain*, please cite our papers.
 
 - M. Taghavi, J. Bentahar, H. Otrok, and K. Bakhtiyari, ***"A reinforcement learning model for the reliability of blockchain oracles,"*** in Expert Systems with Applications, (In Press)
 DOI: https://doi.org/10.1016/j.eswa.2022.119160
+[[Reproducable Code]](https://doi.org/10.24433/CO.3464870.v1)
 
 - M. Taghavi, J. Bentahar, H. Otrok, and K. Bakhtiyari, ***"A Blockchain-based Model for Cloud Service Quality Monitoring,"*** in IEEE Transactions on Services Computing, vol. 13, no. 2, pp. 276-288, 1 March-April 2020.
 DOI: https://doi.org/10.1109/TSC.2019.2948010  
@@ -42,8 +34,7 @@ DOI: https://doi.org/10.1109/TSC.2019.2948010
 
 - M. Taghavi, J. Bentahar, H. Otrok, and K. Bakhtiyari, ***"Cloudchain: A Blockchain-Based Coopetition Differential Game Model for Cloud Computing,"*** in 16th International Conference on Service Oriented Computing (ICSOC), Hangzhou, China, 2018, pp. 146-161: Springer International Publishing.
 DOI: https://doi.org/10.1007/978-3-030-03596-9_10  
-[[ResearchGate]](https://www.researchgate.net/publication/328517305_Cloudchain_A_Blockchain-based_Coopetition_Differential_Game_Model_for_Cloud_Computing) | 
-[[Full-Text]](http://wvvw.monataghavi.com/download/pub/2018-11-icsoc-cloudchain.pdf) |
+[[ResearchGate]](https://www.researchgate.net/publication/328517305_Cloudchain_A_Blockchain-based_Coopetition_Differential_Game_Model_for_Cloud_Computing)| [[Full-Text]](http://wvvw.monataghavi.com/download/pub/2018-11-icsoc-cloudchain.pdf) |
 [[Powerpoint]](http://wvvw.monataghavi.com/download/presentations/2018-11-icsoc-cloudchain.pptx) |
 [[Youtube]](https://www.youtube.com/watch?v=fomO5C_ze2g)
 
@@ -54,3 +45,12 @@ Youtube Video: https://www.youtube.com/watch?v=fomO5C_ze2g
 ## Youtube Video
 
 [![Blockchain](http://img.youtube.com/vi/fomO5C_ze2g/0.jpg)](http://www.youtube.com/watch?v=fomO5C_ze2g)
+
+## Version History
+#### 0.1.6: 3 November 2018  
+> Solidity (0.4.25)<br>
+> Introducing the role of a trusted verifier into Cloudchain  
+
+#### 0.1.5: 1 June 2018    
+> Solidity (0.4.24)<br>
+> Base Version  

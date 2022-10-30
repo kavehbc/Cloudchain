@@ -19,7 +19,7 @@ Base Version
 #### Lead Researcher:  
 [Mona Taghavi](http://www.monataghavi.com) (Concordia University, Canada)  
 
-#### Developer:  
+#### Blockchain Developer:  
 [Kaveh Bakhtiyari](http://www.bakhtiyari.com) (University of Duisburg-Essen, Germany and The National University of Malaysia)  
 
 #### Research Supervisors:  
@@ -32,12 +32,15 @@ Base Version
 ## Citation
 If you are using any part of *Cloudchain*, please cite our papers.  
 
-M. Taghavi, J. Bentahar, H. Otrok, and K. Bakhtiyari, ***"A Blockchain-based Model for Cloud Service Quality Monitoring,"*** in IEEE Transactions on Services Computing, vol. 13, no. 2, pp. 276-288, 1 March-April 2020.
+- M. Taghavi, J. Bentahar, H. Otrok, and K. Bakhtiyari, ***"A reinforcement learning model for the reliability of blockchain oracles,"*** in Expert Systems with Applications, (In Press)
+DOI: https://doi.org/10.1016/j.eswa.2022.119160
+
+- M. Taghavi, J. Bentahar, H. Otrok, and K. Bakhtiyari, ***"A Blockchain-based Model for Cloud Service Quality Monitoring,"*** in IEEE Transactions on Services Computing, vol. 13, no. 2, pp. 276-288, 1 March-April 2020.
 DOI: https://doi.org/10.1109/TSC.2019.2948010  
 [[ResearchGate]](https://www.researchgate.net/publication/336623007_A_Blockchain-based_Model_for_Cloud_Service_Quality_Monitoring) |
 [[Full-Text]](http://wvvw.monataghavi.com/download/pub/2019-10-tsc-cloudchain.pdf)
 
-M. Taghavi, J. Bentahar, H. Otrok, and K. Bakhtiyari, ***"Cloudchain: A Blockchain-Based Coopetition Differential Game Model for Cloud Computing,"*** in 16th International Conference on Service Oriented Computing (ICSOC), Hangzhou, China, 2018, pp. 146-161: Springer International Publishing.
+- M. Taghavi, J. Bentahar, H. Otrok, and K. Bakhtiyari, ***"Cloudchain: A Blockchain-Based Coopetition Differential Game Model for Cloud Computing,"*** in 16th International Conference on Service Oriented Computing (ICSOC), Hangzhou, China, 2018, pp. 146-161: Springer International Publishing.
 DOI: https://doi.org/10.1007/978-3-030-03596-9_10  
 [[ResearchGate]](https://www.researchgate.net/publication/328517305_Cloudchain_A_Blockchain-based_Coopetition_Differential_Game_Model_for_Cloud_Computing) | 
 [[Full-Text]](http://wvvw.monataghavi.com/download/pub/2018-11-icsoc-cloudchain.pdf) |

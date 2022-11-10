@@ -26,7 +26,7 @@ If you are using any part of *Cloudchain*, please cite our papers.
 - M. Taghavi, J. Bentahar, H. Otrok, and K. Bakhtiyari, ***"A reinforcement learning model for the reliability of blockchain oracles,"*** in Expert Systems with Applications, Volume 214, 15 Mar. 2023.
 DOI: https://doi.org/10.1016/j.eswa.2022.119160
 [[Reproducable Code](https://doi.org/10.24433/CO.3464870.v1)] |
-[[Full-Text](https://doi.org/10.1016/j.eswa.2022.119160)]
+[[Full-Text](https://wvvw.monataghavi.com/download/pub/2022-10-eswa-cloudchain.pdf)]
 
 
 - M. Taghavi, J. Bentahar, H. Otrok, and K. Bakhtiyari, ***"A Blockchain-based Model for Cloud Service Quality Monitoring,"*** in IEEE Transactions on Services Computing, vol. 13, no. 2, pp. 276-288, 1 March-April 2020.

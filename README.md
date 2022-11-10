@@ -23,20 +23,22 @@ It has three smartcontracts:
 ## Citation
 If you are using any part of *Cloudchain*, please cite our papers.  
 
-- M. Taghavi, J. Bentahar, H. Otrok, and K. Bakhtiyari, ***"A reinforcement learning model for the reliability of blockchain oracles,"*** in Expert Systems with Applications, (In Press)
+- M. Taghavi, J. Bentahar, H. Otrok, and K. Bakhtiyari, ***"A reinforcement learning model for the reliability of blockchain oracles,"*** in Expert Systems with Applications, Volume 214, 15 Mar. 2023.
 DOI: https://doi.org/10.1016/j.eswa.2022.119160
-[[Reproducable Code]](https://doi.org/10.24433/CO.3464870.v1)
+[[Reproducable Code](https://doi.org/10.24433/CO.3464870.v1)] |
+[[Full-Text](https://doi.org/10.1016/j.eswa.2022.119160)]
+
 
 - M. Taghavi, J. Bentahar, H. Otrok, and K. Bakhtiyari, ***"A Blockchain-based Model for Cloud Service Quality Monitoring,"*** in IEEE Transactions on Services Computing, vol. 13, no. 2, pp. 276-288, 1 March-April 2020.
 DOI: https://doi.org/10.1109/TSC.2019.2948010  
-[[ResearchGate]](https://www.researchgate.net/publication/336623007_A_Blockchain-based_Model_for_Cloud_Service_Quality_Monitoring) |
-[[Full-Text]](http://wvvw.monataghavi.com/download/pub/2019-10-tsc-cloudchain.pdf)
+[[ResearchGate](https://www.researchgate.net/publication/336623007_A_Blockchain-based_Model_for_Cloud_Service_Quality_Monitoring)] |
+[[Full-Text](http://wvvw.monataghavi.com/download/pub/2019-10-tsc-cloudchain.pdf)]
 
 - M. Taghavi, J. Bentahar, H. Otrok, and K. Bakhtiyari, ***"Cloudchain: A Blockchain-Based Coopetition Differential Game Model for Cloud Computing,"*** in 16th International Conference on Service Oriented Computing (ICSOC), Hangzhou, China, 2018, pp. 146-161: Springer International Publishing.
 DOI: https://doi.org/10.1007/978-3-030-03596-9_10  
-[[ResearchGate]](https://www.researchgate.net/publication/328517305_Cloudchain_A_Blockchain-based_Coopetition_Differential_Game_Model_for_Cloud_Computing)| [[Full-Text]](http://wvvw.monataghavi.com/download/pub/2018-11-icsoc-cloudchain.pdf) |
-[[Powerpoint]](http://wvvw.monataghavi.com/download/presentations/2018-11-icsoc-cloudchain.pptx) |
-[[Youtube]](https://www.youtube.com/watch?v=fomO5C_ze2g)
+[[ResearchGate](https://www.researchgate.net/publication/328517305_Cloudchain_A_Blockchain-based_Coopetition_Differential_Game_Model_for_Cloud_Computing)] | [[Full-Text](http://wvvw.monataghavi.com/download/pub/2018-11-icsoc-cloudchain.pdf)] |
+[[Powerpoint](http://wvvw.monataghavi.com/download/presentations/2018-11-icsoc-cloudchain.pptx)] |
+[[Youtube](https://www.youtube.com/watch?v=fomO5C_ze2g)]
 
 ## More information
 Published full-text: [Mona Taghavi](http://monataghavi.com) | [Kaveh Bakhtiyari](http://bakhtiyari.com)  
